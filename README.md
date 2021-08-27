@@ -2,11 +2,11 @@
 <div align="center">
   <br />
   <p>
-    <a href="https://github.com/Pipodestroyer"><img src="https://cdn.discordapp.com/attachments/841047099038367765/874516447659982918/pngwing.com.png" width="546" alt="github.com" 
+    <a href="https://github.com/Pipodestroyer"><img src="https://cdn.discordapp.com/attachments/841047102816911410/880946958041219092/poka_sin_fondo.png" width="546" alt="github.com" 
   /></a>
     <div align="center">
-      <p>I am Pokita, a bot programmer for Discord. And a fan of milkshakes.</p> 
-</div>
+      <p>I am Pokita, a bot programmer for Discord , fan of milkshakes and a fan of @popopoka_ :D.
+  </div>
 
   </p>
   <br />
