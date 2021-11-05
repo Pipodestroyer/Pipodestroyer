@@ -17,5 +17,5 @@
   </p>
 </div>
  <p>
-<a <iframe src="https://ptb.discord.com/widget?id=896598118483763261&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>/></a>
+<iframe src="https://ptb.discord.com/widget?id=896598118483763261&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
  <p>
