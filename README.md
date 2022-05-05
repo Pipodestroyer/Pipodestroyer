@@ -5,11 +5,11 @@ const client = new Discord.Client({ intents: 13839 });
 Const User = require('pokita.js')
 require('dotenv').config();
 
-client.on('messageCreate', message => {
-
 client.on('ready', () => {
   console.log(`Profile Ready!`);
 });
+
+client.on('messageCreate', message => {
 
  if(message.content === "About Me"){
  return message.channel.send("
