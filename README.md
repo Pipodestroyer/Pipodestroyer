@@ -1,5 +1,5 @@
 ```js
-Const Discord = require('Discord.js')
+const Discord = require('Discord.js')
 const intents = new Discord.Intents();
 const client = new Discord.Client({ intents: 13839 });
 Const User = require('pokita.js')
