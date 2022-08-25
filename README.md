@@ -1,7 +1,6 @@
 ```js
-const Discord = require('Discord.js')
-const intents = new Discord.Intents();
-const client = new Discord.Client({ intents: 13839 });
+const { Client, GatewayIntentBits } = require('discord.js');
+const client = new Client({ intents: [GatewayIntentBits.Guilds] });
 const User = require('pokita.js')
 require('dotenv').config();
 
