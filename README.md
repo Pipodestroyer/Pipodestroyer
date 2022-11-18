@@ -33,7 +33,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/pipodestroyer/pipodestroyer/blob/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/Pipodestroyer/Pipodestroyer/output/snake.svg" alt="Snake animation" />
 
 ###
 
