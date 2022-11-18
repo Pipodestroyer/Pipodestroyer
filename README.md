@@ -33,14 +33,38 @@
 
 ###
 
+<h2 align="left">📥 My socials</h2>
+
+###
+
+<div align="left">
+  <a href="https://twitter.com/NPokita" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
+  </a>
+  <a href="https://discord.com/users/356428292158390282" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
+  </a>
+  <a href="https://www.youtube.com/channel/UCSuAbT2uElqXIS_YAkeAigw" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
+  </a>
+</div>
+
+###
+
+<h2 align="left">📈 My contributions</h2>
+
+###
+
 <img src="https://raw.githubusercontent.com/Pipodestroyer/Pipodestroyer/output/snake.svg" alt="Snake animation" />
 
 ###
 
-<div align="center">
-  <a href="https://open.spotify.com/user/mb8cwremiubhx5ybnhbr1omjl">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=mb8cwremiubhx5ybnhbr1omjl&count=1" alt="Spotify recently played"  />
-  </a>
+<h2 align="left">🔮 What I'm listening right now</h2>
+
+###
+
+<div align="left">
+  <img src="https://im-deadinside.vercel.app/api?theme=dark&scan=true" alt="Widget with the current Spotify song"  />
 </div>
 
 ###
