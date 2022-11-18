@@ -1,24 +1,46 @@
-```js
-const { Client, GatewayIntentBits } = require('discord.js');
-const client = new Client({ intents: [GatewayIntentBits.Guilds] });
-const User = require('pokita.js')
-require('dotenv').config();
+<div align="left">
+  <img height="340" src="https://i.postimg.cc/8cSwT8qn/Finalbanner.png"  />
+</div>
 
-client.on('ready', () => {
-  console.log(`Profile Ready!`);
-});
+###
 
-client.on('messageCreate', message => {
+<h1 align="left">Hi there 👋</h1>
 
- if(message.content === "About Me"){
- return message.channel.send("
- Im Pokita
- I Like JS and Discord.js
- My Webpage: https://pokita.site/
- Founder of Cyclone Bot
- I like the vanilla ice cream so hard...
- ")}
+###
 
-client.login(process.env.pokita_token);
-});
-```
+<p align="left">I'm a discord.js bot developer, sometimes i develop web pages, other times i develop trash roblox games, i span most of my time just listening to music.<br><br>I love the vanilla Milkshakes.<br>English is not my first language!</p>
+
+###
+
+<h2 align="left">I work with</h2>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" width="52" alt="javascript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" width="52" alt="typescript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg" height="40" width="52" alt="nodejs logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" width="52" alt="html5 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" width="52" alt="css3 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" width="52" alt="vscode logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" width="52" alt="postgresql logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" height="40" width="52" alt="lua logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain.svg" height="40" width="52" alt="mongodb logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="40" width="52" alt="npm logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" height="40" width="52" alt="slack logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-line.svg" height="40" width="52" alt="photoshop logo"  />
+</div>
+
+###
+
+<img src="https://raw.githubusercontent.com/pipodestroyer/pipodestroyer/blob/output/snake.svg" alt="Snake animation" />
+
+###
+
+<div align="center">
+  <a href="https://open.spotify.com/user/mb8cwremiubhx5ybnhbr1omjl">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?count=1&unique=false" alt="Spotify recently played"  />
+  </a>
+</div>
+
+###
