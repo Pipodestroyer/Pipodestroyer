@@ -51,14 +51,6 @@
 
 ###
 
-<h2 align="left">📈 My contributions</h2>
-
-###
-
-<img src="https://raw.githubusercontent.com/Pipodestroyer/Pipodestroyer/output/snake.svg" alt="Snake animation" />
-
-###
-
 <h2 align="left">🔮 What I'm listening right now</h2>
 
 ###
