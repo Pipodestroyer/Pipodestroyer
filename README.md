@@ -8,7 +8,7 @@
 
 ###
 
-<p align="left">I'm a discord.js bot developer, sometimes i develop web pages, other times i develop trash roblox games, i span most of my time just listening to music.<br><br>I love the vanilla Milkshakes.<br>English is not my first language!</p>
+<p align="left">I'm a discord.js bot developer, sometimes i develop web pages, other times i develop trash roblox games, i span most of my time just listening to music.<br><br>I love vanilla Milkshakes.<br>English is not my first language!</p>
 
 ###
 
