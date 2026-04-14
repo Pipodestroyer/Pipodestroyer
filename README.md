@@ -50,13 +50,3 @@
 </div>
 
 ###
-
-<h2 align="left">🔮 What I'm listening right now</h2>
-
-###
-
-<div align="left">
-  <img src="https://im-deadinside.vercel.app/api?theme=dark&scan=true" alt="Widget with the current Spotify song"  />
-</div>
-
-###
