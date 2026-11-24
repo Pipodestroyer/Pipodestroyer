@@ -4,11 +4,11 @@
 
 ###
 
-<h1 align="left">👋 Hi there</h1>
+<h1 align="left">👋 Hello</h1>
 
 ###
 
-<p align="left">I do stuff i guess.</p>
+<p align="left">Im Ivy/Pokita, i develop software from time to time.</p>
 
 ###
 
